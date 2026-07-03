@@ -1,0 +1,11 @@
+event_id,event_name,event_date,start_time,end_time,venue,city,state
+EVT-001,Summer Makers Market,2026-07-11,10:00 AM,4:00 PM,Georgetown Waterfront Park,Washington,DC
+EVT-002,Handmade at the Harbor,2026-07-18,11:00 AM,6:00 PM,National Harbor Plaza,Oxon Hill,MD
+EVT-003,Village Craft Fair,2026-07-26,10:00 AM,5:00 PM,Old Town Market Square,Alexandria,VA
+EVT-004,Moonlight Artisan Night Market,2026-08-07,5:00 PM,10:00 PM,"The Wharf, District Pier",Washington,DC
+EVT-005,Riverside Makers Bazaar,2026-08-15,10:00 AM,4:00 PM,Yards Park,Washington,DC
+EVT-006,Late Summer Craft Collective,2026-08-23,11:00 AM,5:00 PM,Silver Spring Civic Plaza,Silver Spring,MD
+EVT-007,Harvest Handmade Market,2026-09-05,10:00 AM,6:00 PM,Reston Town Center Pavilion,Reston,VA
+EVT-008,Makers in the Park,2026-09-13,12:00 PM,5:00 PM,Meridian Hill Park,Washington,DC
+EVT-009,Autumn Artisan Fair,2026-09-19,10:00 AM,5:00 PM,Bethesda Row Plaza,Bethesda,MD
+EVT-010,Fall Village Market,2026-09-27,10:00 AM,4:00 PM,Eastern Market Plaza,Washington,DC

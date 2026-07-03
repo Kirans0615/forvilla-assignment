@@ -1,0 +1,9 @@
+event_id,event_name,event_date,vendor_id,vendor_name,category,products,email,phone,instagram,booth
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-035,Willow & Wick Candle Co.,Candles & Home Fragrance,"Soy candles, wax melts, room sprays",hello@willowwick.com,(202) 555-0143,@willowwickcandles,A1
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-003,Bloom & Bramble Botanicals,Bath & Body,"Herbal soaps, bath soaks, balms",care@bloombramble.com,(301) 555-0165,@bloomandbramble,A2
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-013,Inkwell Prints,Art & Prints,"Linocut prints, screen-printed posters",press@inkwellprints.com,(202) 555-0118,@inkwellprintsdc,A3
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-034,Wildflower Press,Art & Prints,"Pressed-flower frames, botanical prints",bloom@wildflowerpress.art,(301) 555-0149,@wildflowerpressart,A4
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-002,Birch Bark Baskets,Home Goods,"Woven baskets, storage trays",weave@birchbark.com,(540) 555-0178,@birchbarkbaskets,B1
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-023,Rosemary Row Soaps,Bath & Body,"Garden-herb soaps, lotion bars",suds@rosemaryrow.com,(571) 555-0146,@rosemaryrowsoaps,B2
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-025,Silver Thistle Studio,Jewelry,"Botanical-cast silver earrings, necklaces",cast@silverthistle.com,(703) 555-0129,@silverthistlestudio,B3
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-001,Amber Grove Apothecary,Bath & Body,"Botanical facial oils, herbal salves",herbs@ambergrove.com,(202) 555-0193,@ambergroveapothecary,B4

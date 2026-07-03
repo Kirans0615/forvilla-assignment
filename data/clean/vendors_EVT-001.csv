@@ -1,0 +1,9 @@
+event_id,event_name,event_date,vendor_id,vendor_name,category,products,email,phone,instagram,booth
+EVT-001,Summer Makers Market,2026-07-11,FV-035,Willow & Wick Candle Co.,Candles & Home Fragrance,"Soy candles, wax melts, room sprays",hello@willowwick.com,(202) 555-0143,@willowwickcandles,A1
+EVT-001,Summer Makers Market,2026-07-11,FV-028,Terra Luna Ceramics,Pottery & Ceramics,"Hand-thrown mugs, planters, serving bowls",studio@terraluna.com,(202) 555-0171,@terralunaceramics,A2
+EVT-001,Summer Makers Market,2026-07-11,FV-012,Hazel + Pine Woodworks,Woodworking,"Cutting boards, serving trays, coasters",shop@hazelpine.com,(703) 555-0188,@hazelpinewood,A3
+EVT-001,Summer Makers Market,2026-07-11,FV-007,Copper Fox Jewelry,Jewelry,"Hammered copper earrings, brass cuffs",hello@copperfox.shop,(571) 555-0137,@copperfoxjewelry,A4
+EVT-001,Summer Makers Market,2026-07-11,FV-027,Sweet Alchemy Bakes,Baked Goods,"French macarons, shortbread, brownies",orders@sweetalchemy.com,(202) 555-0152,@sweetalchemybakes,B1
+EVT-001,Summer Makers Market,2026-07-11,FV-022,Prairie Honey Co.,Food & Pantry,"Raw wildflower honey, honeycomb, beeswax",buzz@prairiehoney.com,(540) 555-0131,@prairiehoneyco,B2
+EVT-001,Summer Makers Market,2026-07-11,FV-013,Inkwell Prints,Art & Prints,"Linocut prints, screen-printed posters",press@inkwellprints.com,(202) 555-0118,@inkwellprintsdc,B3
+EVT-001,Summer Makers Market,2026-07-11,FV-018,Moon Phase Metals,Jewelry,"Sterling silver rings, moon-phase pendants",luna@moonphasemetals.com,(202) 555-0134,@moonphasemetals,B4

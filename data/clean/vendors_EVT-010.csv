@@ -1,0 +1,9 @@
+event_id,event_name,event_date,vendor_id,vendor_name,category,products,email,phone,instagram,booth
+EVT-010,Fall Village Market,2026-09-27,FV-028,Terra Luna Ceramics,Pottery & Ceramics,"Hand-thrown mugs, planters, serving bowls",studio@terraluna.com,(202) 555-0171,@terralunaceramics,A1
+EVT-010,Fall Village Market,2026-09-27,FV-008,Ember Glassworks,Glass Art,"Blown-glass ornaments, stained glass suncatchers",studio@emberglass.com,(301) 555-0174,@emberglassworks,A2
+EVT-010,Fall Village Market,2026-09-27,FV-016,Little Fox Knits,Textiles & Fiber Arts,"Chunky knit beanies, baby blankets",yarn@littlefoxknits.com,(301) 555-0113,@littlefoxknits,A3
+EVT-010,Fall Village Market,2026-09-27,FV-011,Harbor Light Candles,Candles & Home Fragrance,"Coastal soy candles, reed diffusers",glow@harborlight.co,(301) 555-0192,@harborlightcandles,A4
+EVT-010,Fall Village Market,2026-09-27,FV-032,Thread & Thistle Embroidery,Textiles & Fiber Arts,"Embroidery hoop art, patches",stitch@threadthistle.com,(571) 555-0172,@threadandthistle,B1
+EVT-010,Fall Village Market,2026-09-27,FV-021,Pinecone & Petal Wreaths,Plants & Florals,"Dried-flower wreaths, seasonal swags",wreaths@pineconepetal.com,(703) 555-0181,@pineconeandpetal,B2
+EVT-010,Fall Village Market,2026-09-27,FV-004,Cedar & Salt Soap Co.,Bath & Body,"Cold-process soaps, shower steamers",hello@cedarsalt.com,(703) 555-0142,@cedarandsalt,B3
+EVT-010,Fall Village Market,2026-09-27,FV-010,Golden Hour Macrame,Textiles & Fiber Arts,"Macrame plant hangers, wall art",knots@goldenhour.art,(202) 555-0161,@goldenhourmacrame,B4

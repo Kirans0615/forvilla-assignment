@@ -1,0 +1,9 @@
+event_id,event_name,event_date,vendor_id,vendor_name,category,products,email,phone,instagram,booth
+EVT-007,Harvest Handmade Market,2026-09-05,FV-029,The Gilded Thread,Textiles & Fiber Arts,"Hand-embroidered linens, tea towels",orders@gildedthread.com,(301) 555-0122,@thegildedthread,A1
+EVT-007,Harvest Handmade Market,2026-09-05,FV-026,Stone & Sage Pottery,Pottery & Ceramics,"Stoneware dinnerware, vases",kiln@stonesage.com,(703) 555-0119,@stoneandsagepottery,A2
+EVT-007,Harvest Handmade Market,2026-09-05,FV-004,Cedar & Salt Soap Co.,Bath & Body,"Cold-process soaps, shower steamers",hello@cedarsalt.com,(703) 555-0142,@cedarandsalt,A3
+EVT-007,Harvest Handmade Market,2026-09-05,FV-014,Juniper Hill Farm,Food & Pantry,"Small-batch jams, pickles, hot sauces",farm@juniperhill.com,(540) 555-0126,@juniperhillfarm,A4
+EVT-007,Harvest Handmade Market,2026-09-05,FV-024,Saffron Sky Spices,Food & Pantry,"Hand-blended spice mixes, infused salts",blend@saffronsky.com,(202) 555-0187,@saffronskyspices,B1
+EVT-007,Harvest Handmade Market,2026-09-05,FV-030,The Paper Lantern,Stationery & Paper Goods,"Origami mobiles, paper garlands, cards",fold@paperlantern.com,(202) 555-0128,@thepaperlanterndc,B2
+EVT-007,Harvest Handmade Market,2026-09-05,FV-019,Oakheart Cutting Boards,Woodworking,"End-grain cutting boards, cheese boards",wood@oakheart.shop,(540) 555-0153,@oakheartboards,B3
+EVT-007,Harvest Handmade Market,2026-09-05,FV-021,Pinecone & Petal Wreaths,Plants & Florals,"Dried-flower wreaths, seasonal swags",wreaths@pineconepetal.com,(703) 555-0181,@pineconeandpetal,B4

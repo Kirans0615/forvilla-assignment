@@ -1,0 +1,9 @@
+event_id,event_name,event_date,vendor_id,vendor_name,category,products,email,phone,instagram,booth
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-028,Terra Luna Ceramics,Pottery & Ceramics,"Hand-thrown mugs, planters, serving bowls",studio@terraluna.com,(202) 555-0171,@terralunaceramics,A1
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-003,Bloom & Bramble Botanicals,Bath & Body,"Herbal soaps, bath soaks, balms",care@bloombramble.com,(301) 555-0165,@bloomandbramble,A2
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-008,Ember Glassworks,Glass Art,"Blown-glass ornaments, stained glass suncatchers",studio@emberglass.com,(301) 555-0174,@emberglassworks,A3
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-031,The Velvet Cactus,Plants & Florals,"Succulent arrangements, hand-painted pots",grow@velvetcactus.com,(301) 555-0183,@thevelvetcactus,A4
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-034,Wildflower Press,Art & Prints,"Pressed-flower frames, botanical prints",bloom@wildflowerpress.art,(301) 555-0149,@wildflowerpressart,B1
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-016,Little Fox Knits,Textiles & Fiber Arts,"Chunky knit beanies, baby blankets",yarn@littlefoxknits.com,(301) 555-0113,@littlefoxknits,B2
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-023,Rosemary Row Soaps,Bath & Body,"Garden-herb soaps, lotion bars",suds@rosemaryrow.com,(571) 555-0146,@rosemaryrowsoaps,B3
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-001,Amber Grove Apothecary,Bath & Body,"Botanical facial oils, herbal salves",herbs@ambergrove.com,(202) 555-0193,@ambergroveapothecary,B4

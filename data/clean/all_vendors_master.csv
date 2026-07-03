@@ -1,0 +1,81 @@
+event_id,event_name,event_date,vendor_id,vendor_name,category,products,email,phone,instagram,booth
+EVT-001,Summer Makers Market,2026-07-11,FV-035,Willow & Wick Candle Co.,Candles & Home Fragrance,"Soy candles, wax melts, room sprays",hello@willowwick.com,(202) 555-0143,@willowwickcandles,A1
+EVT-001,Summer Makers Market,2026-07-11,FV-028,Terra Luna Ceramics,Pottery & Ceramics,"Hand-thrown mugs, planters, serving bowls",studio@terraluna.com,(202) 555-0171,@terralunaceramics,A2
+EVT-001,Summer Makers Market,2026-07-11,FV-012,Hazel + Pine Woodworks,Woodworking,"Cutting boards, serving trays, coasters",shop@hazelpine.com,(703) 555-0188,@hazelpinewood,A3
+EVT-001,Summer Makers Market,2026-07-11,FV-007,Copper Fox Jewelry,Jewelry,"Hammered copper earrings, brass cuffs",hello@copperfox.shop,(571) 555-0137,@copperfoxjewelry,A4
+EVT-001,Summer Makers Market,2026-07-11,FV-027,Sweet Alchemy Bakes,Baked Goods,"French macarons, shortbread, brownies",orders@sweetalchemy.com,(202) 555-0152,@sweetalchemybakes,B1
+EVT-001,Summer Makers Market,2026-07-11,FV-022,Prairie Honey Co.,Food & Pantry,"Raw wildflower honey, honeycomb, beeswax",buzz@prairiehoney.com,(540) 555-0131,@prairiehoneyco,B2
+EVT-001,Summer Makers Market,2026-07-11,FV-013,Inkwell Prints,Art & Prints,"Linocut prints, screen-printed posters",press@inkwellprints.com,(202) 555-0118,@inkwellprintsdc,B3
+EVT-001,Summer Makers Market,2026-07-11,FV-018,Moon Phase Metals,Jewelry,"Sterling silver rings, moon-phase pendants",luna@moonphasemetals.com,(202) 555-0134,@moonphasemetals,B4
+EVT-002,Handmade at the Harbor,2026-07-18,FV-011,Harbor Light Candles,Candles & Home Fragrance,"Coastal soy candles, reed diffusers",glow@harborlight.co,(301) 555-0192,@harborlightcandles,A1
+EVT-002,Handmade at the Harbor,2026-07-18,FV-008,Ember Glassworks,Glass Art,"Blown-glass ornaments, stained glass suncatchers",studio@emberglass.com,(301) 555-0174,@emberglassworks,A2
+EVT-002,Handmade at the Harbor,2026-07-18,FV-017,Marigold Paper Studio,Stationery & Paper Goods,"Letterpress cards, notebooks, gift wrap",hi@marigoldpaper.com,(202) 555-0109,@marigoldpaper,A3
+EVT-002,Handmade at the Harbor,2026-07-18,FV-003,Bloom & Bramble Botanicals,Bath & Body,"Herbal soaps, bath soaks, balms",care@bloombramble.com,(301) 555-0165,@bloomandbramble,A4
+EVT-002,Handmade at the Harbor,2026-07-18,FV-026,Stone & Sage Pottery,Pottery & Ceramics,"Stoneware dinnerware, vases",kiln@stonesage.com,(703) 555-0119,@stoneandsagepottery,B1
+EVT-002,Handmade at the Harbor,2026-07-18,FV-004,Cedar & Salt Soap Co.,Bath & Body,"Cold-process soaps, shower steamers",hello@cedarsalt.com,(703) 555-0142,@cedarandsalt,B2
+EVT-002,Handmade at the Harbor,2026-07-18,FV-006,Cocoa & Crumb,Baked Goods,"Artisan cookies, hand-dipped chocolates",treats@cocoacrumb.com,(202) 555-0166,@cocoaandcrumb,B3
+EVT-002,Handmade at the Harbor,2026-07-18,FV-021,Pinecone & Petal Wreaths,Plants & Florals,"Dried-flower wreaths, seasonal swags",wreaths@pineconepetal.com,(703) 555-0181,@pineconeandpetal,B4
+EVT-003,Village Craft Fair,2026-07-26,FV-029,The Gilded Thread,Textiles & Fiber Arts,"Hand-embroidered linens, tea towels",orders@gildedthread.com,(301) 555-0122,@thegildedthread,A1
+EVT-003,Village Craft Fair,2026-07-26,FV-007,Copper Fox Jewelry,Jewelry,"Hammered copper earrings, brass cuffs",hello@copperfox.shop,(571) 555-0137,@copperfoxjewelry,A2
+EVT-003,Village Craft Fair,2026-07-26,FV-015,Lark & Loom Weaving,Textiles & Fiber Arts,"Woven wall hangings, table runners",weave@larkloom.com,(202) 555-0196,,A3
+EVT-003,Village Craft Fair,2026-07-26,FV-014,Juniper Hill Farm,Food & Pantry,"Small-batch jams, pickles, hot sauces",farm@juniperhill.com,(540) 555-0126,@juniperhillfarm,A4
+EVT-003,Village Craft Fair,2026-07-26,FV-010,Golden Hour Macrame,Textiles & Fiber Arts,"Macrame plant hangers, wall art",knots@goldenhour.art,(202) 555-0161,@goldenhourmacrame,B1
+EVT-003,Village Craft Fair,2026-07-26,FV-024,Saffron Sky Spices,Food & Pantry,"Hand-blended spice mixes, infused salts",blend@saffronsky.com,(202) 555-0187,@saffronskyspices,B2
+EVT-003,Village Craft Fair,2026-07-26,FV-005,Clay & Co. Studio,Pottery & Ceramics,"Speckled mugs, ring dishes, planters",hello@clayandco.studio,(703) 555-0164,@clayandcostudio,B3
+EVT-003,Village Craft Fair,2026-07-26,FV-019,Oakheart Cutting Boards,Woodworking,"End-grain cutting boards, cheese boards",wood@oakheart.shop,(540) 555-0153,@oakheartboards,B4
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-035,Willow & Wick Candle Co.,Candles & Home Fragrance,"Soy candles, wax melts, room sprays",hello@willowwick.com,(202) 555-0143,@willowwickcandles,A1
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-013,Inkwell Prints,Art & Prints,"Linocut prints, screen-printed posters",press@inkwellprints.com,(202) 555-0118,@inkwellprintsdc,A2
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-033,Tin Roof Leather,Leather Goods,"Hand-stitched wallets, belts, key fobs",shop@tinroofleather.com,(703) 555-0157,@tinroofleather,A3
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-002,Birch Bark Baskets,Home Goods,"Woven baskets, storage trays",weave@birchbark.com,(540) 555-0178,@birchbarkbaskets,A4
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-030,The Paper Lantern,Stationery & Paper Goods,"Origami mobiles, paper garlands, cards",fold@paperlantern.com,(202) 555-0128,@thepaperlanterndc,B1
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-009,Fern & Feather Illustration,Art & Prints,"Watercolor wildlife prints, greeting cards",art@fernfeather.com,(202) 555-0175,@fernandfeatherart,B2
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-025,Silver Thistle Studio,Jewelry,"Botanical-cast silver earrings, necklaces",cast@silverthistle.com,(703) 555-0129,@silverthistlestudio,B3
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-020,Painted Sky Pottery,Pottery & Ceramics,"Glazed landscape mugs, wall tiles",glaze@paintedsky.art,(301) 555-0138,@paintedskypottery,B4
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-028,Terra Luna Ceramics,Pottery & Ceramics,"Hand-thrown mugs, planters, serving bowls",studio@terraluna.com,(202) 555-0171,@terralunaceramics,A1
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-003,Bloom & Bramble Botanicals,Bath & Body,"Herbal soaps, bath soaks, balms",care@bloombramble.com,(301) 555-0165,@bloomandbramble,A2
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-008,Ember Glassworks,Glass Art,"Blown-glass ornaments, stained glass suncatchers",studio@emberglass.com,(301) 555-0174,@emberglassworks,A3
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-031,The Velvet Cactus,Plants & Florals,"Succulent arrangements, hand-painted pots",grow@velvetcactus.com,(301) 555-0183,@thevelvetcactus,A4
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-034,Wildflower Press,Art & Prints,"Pressed-flower frames, botanical prints",bloom@wildflowerpress.art,(301) 555-0149,@wildflowerpressart,B1
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-016,Little Fox Knits,Textiles & Fiber Arts,"Chunky knit beanies, baby blankets",yarn@littlefoxknits.com,(301) 555-0113,@littlefoxknits,B2
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-023,Rosemary Row Soaps,Bath & Body,"Garden-herb soaps, lotion bars",suds@rosemaryrow.com,(571) 555-0146,@rosemaryrowsoaps,B3
+EVT-005,Riverside Makers Bazaar,2026-08-15,FV-001,Amber Grove Apothecary,Bath & Body,"Botanical facial oils, herbal salves",herbs@ambergrove.com,(202) 555-0193,@ambergroveapothecary,B4
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-012,Hazel + Pine Woodworks,Woodworking,"Cutting boards, serving trays, coasters",shop@hazelpine.com,(703) 555-0188,@hazelpinewood,A1
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-027,Sweet Alchemy Bakes,Baked Goods,"French macarons, shortbread, brownies",orders@sweetalchemy.com,(202) 555-0152,@sweetalchemybakes,A2
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-022,Prairie Honey Co.,Food & Pantry,"Raw wildflower honey, honeycomb, beeswax",buzz@prairiehoney.com,(540) 555-0131,@prairiehoneyco,A3
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-010,Golden Hour Macrame,Textiles & Fiber Arts,"Macrame plant hangers, wall art",knots@goldenhour.art,(202) 555-0161,@goldenhourmacrame,A4
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-018,Moon Phase Metals,Jewelry,"Sterling silver rings, moon-phase pendants",luna@moonphasemetals.com,(202) 555-0134,@moonphasemetals,B1
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-011,Harbor Light Candles,Candles & Home Fragrance,"Coastal soy candles, reed diffusers",glow@harborlight.co,(301) 555-0192,@harborlightcandles,B2
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-006,Cocoa & Crumb,Baked Goods,"Artisan cookies, hand-dipped chocolates",treats@cocoacrumb.com,(202) 555-0166,@cocoaandcrumb,B3
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-032,Thread & Thistle Embroidery,Textiles & Fiber Arts,"Embroidery hoop art, patches",stitch@threadthistle.com,(571) 555-0172,@threadandthistle,B4
+EVT-007,Harvest Handmade Market,2026-09-05,FV-029,The Gilded Thread,Textiles & Fiber Arts,"Hand-embroidered linens, tea towels",orders@gildedthread.com,(301) 555-0122,@thegildedthread,A1
+EVT-007,Harvest Handmade Market,2026-09-05,FV-026,Stone & Sage Pottery,Pottery & Ceramics,"Stoneware dinnerware, vases",kiln@stonesage.com,(703) 555-0119,@stoneandsagepottery,A2
+EVT-007,Harvest Handmade Market,2026-09-05,FV-004,Cedar & Salt Soap Co.,Bath & Body,"Cold-process soaps, shower steamers",hello@cedarsalt.com,(703) 555-0142,@cedarandsalt,A3
+EVT-007,Harvest Handmade Market,2026-09-05,FV-014,Juniper Hill Farm,Food & Pantry,"Small-batch jams, pickles, hot sauces",farm@juniperhill.com,(540) 555-0126,@juniperhillfarm,A4
+EVT-007,Harvest Handmade Market,2026-09-05,FV-024,Saffron Sky Spices,Food & Pantry,"Hand-blended spice mixes, infused salts",blend@saffronsky.com,(202) 555-0187,@saffronskyspices,B1
+EVT-007,Harvest Handmade Market,2026-09-05,FV-030,The Paper Lantern,Stationery & Paper Goods,"Origami mobiles, paper garlands, cards",fold@paperlantern.com,(202) 555-0128,@thepaperlanterndc,B2
+EVT-007,Harvest Handmade Market,2026-09-05,FV-019,Oakheart Cutting Boards,Woodworking,"End-grain cutting boards, cheese boards",wood@oakheart.shop,(540) 555-0153,@oakheartboards,B3
+EVT-007,Harvest Handmade Market,2026-09-05,FV-021,Pinecone & Petal Wreaths,Plants & Florals,"Dried-flower wreaths, seasonal swags",wreaths@pineconepetal.com,(703) 555-0181,@pineconeandpetal,B4
+EVT-008,Makers in the Park,2026-09-13,FV-017,Marigold Paper Studio,Stationery & Paper Goods,"Letterpress cards, notebooks, gift wrap",hi@marigoldpaper.com,(202) 555-0109,@marigoldpaper,A1
+EVT-008,Makers in the Park,2026-09-13,FV-015,Lark & Loom Weaving,Textiles & Fiber Arts,"Woven wall hangings, table runners",weave@larkloom.com,(202) 555-0196,,A2
+EVT-008,Makers in the Park,2026-09-13,FV-031,The Velvet Cactus,Plants & Florals,"Succulent arrangements, hand-painted pots",grow@velvetcactus.com,(301) 555-0183,@thevelvetcactus,A3
+EVT-008,Makers in the Park,2026-09-13,FV-033,Tin Roof Leather,Leather Goods,"Hand-stitched wallets, belts, key fobs",shop@tinroofleather.com,(703) 555-0157,@tinroofleather,A4
+EVT-008,Makers in the Park,2026-09-13,FV-005,Clay & Co. Studio,Pottery & Ceramics,"Speckled mugs, ring dishes, planters",hello@clayandco.studio,(703) 555-0164,@clayandcostudio,B1
+EVT-008,Makers in the Park,2026-09-13,FV-009,Fern & Feather Illustration,Art & Prints,"Watercolor wildlife prints, greeting cards",art@fernfeather.com,(202) 555-0175,@fernandfeatherart,B2
+EVT-008,Makers in the Park,2026-09-13,FV-020,Painted Sky Pottery,Pottery & Ceramics,"Glazed landscape mugs, wall tiles",glaze@paintedsky.art,(301) 555-0138,@paintedskypottery,B3
+EVT-008,Makers in the Park,2026-09-13,FV-007,Copper Fox Jewelry,Jewelry,"Hammered copper earrings, brass cuffs",hello@copperfox.shop,(571) 555-0137,@copperfoxjewelry,B4
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-035,Willow & Wick Candle Co.,Candles & Home Fragrance,"Soy candles, wax melts, room sprays",hello@willowwick.com,(202) 555-0143,@willowwickcandles,A1
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-003,Bloom & Bramble Botanicals,Bath & Body,"Herbal soaps, bath soaks, balms",care@bloombramble.com,(301) 555-0165,@bloomandbramble,A2
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-013,Inkwell Prints,Art & Prints,"Linocut prints, screen-printed posters",press@inkwellprints.com,(202) 555-0118,@inkwellprintsdc,A3
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-034,Wildflower Press,Art & Prints,"Pressed-flower frames, botanical prints",bloom@wildflowerpress.art,(301) 555-0149,@wildflowerpressart,A4
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-002,Birch Bark Baskets,Home Goods,"Woven baskets, storage trays",weave@birchbark.com,(540) 555-0178,@birchbarkbaskets,B1
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-023,Rosemary Row Soaps,Bath & Body,"Garden-herb soaps, lotion bars",suds@rosemaryrow.com,(571) 555-0146,@rosemaryrowsoaps,B2
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-025,Silver Thistle Studio,Jewelry,"Botanical-cast silver earrings, necklaces",cast@silverthistle.com,(703) 555-0129,@silverthistlestudio,B3
+EVT-009,Autumn Artisan Fair,2026-09-19,FV-001,Amber Grove Apothecary,Bath & Body,"Botanical facial oils, herbal salves",herbs@ambergrove.com,(202) 555-0193,@ambergroveapothecary,B4
+EVT-010,Fall Village Market,2026-09-27,FV-028,Terra Luna Ceramics,Pottery & Ceramics,"Hand-thrown mugs, planters, serving bowls",studio@terraluna.com,(202) 555-0171,@terralunaceramics,A1
+EVT-010,Fall Village Market,2026-09-27,FV-008,Ember Glassworks,Glass Art,"Blown-glass ornaments, stained glass suncatchers",studio@emberglass.com,(301) 555-0174,@emberglassworks,A2
+EVT-010,Fall Village Market,2026-09-27,FV-016,Little Fox Knits,Textiles & Fiber Arts,"Chunky knit beanies, baby blankets",yarn@littlefoxknits.com,(301) 555-0113,@littlefoxknits,A3
+EVT-010,Fall Village Market,2026-09-27,FV-011,Harbor Light Candles,Candles & Home Fragrance,"Coastal soy candles, reed diffusers",glow@harborlight.co,(301) 555-0192,@harborlightcandles,A4
+EVT-010,Fall Village Market,2026-09-27,FV-032,Thread & Thistle Embroidery,Textiles & Fiber Arts,"Embroidery hoop art, patches",stitch@threadthistle.com,(571) 555-0172,@threadandthistle,B1
+EVT-010,Fall Village Market,2026-09-27,FV-021,Pinecone & Petal Wreaths,Plants & Florals,"Dried-flower wreaths, seasonal swags",wreaths@pineconepetal.com,(703) 555-0181,@pineconeandpetal,B2
+EVT-010,Fall Village Market,2026-09-27,FV-004,Cedar & Salt Soap Co.,Bath & Body,"Cold-process soaps, shower steamers",hello@cedarsalt.com,(703) 555-0142,@cedarandsalt,B3
+EVT-010,Fall Village Market,2026-09-27,FV-010,Golden Hour Macrame,Textiles & Fiber Arts,"Macrame plant hangers, wall art",knots@goldenhour.art,(202) 555-0161,@goldenhourmacrame,B4

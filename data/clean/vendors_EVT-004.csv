@@ -1,0 +1,9 @@
+event_id,event_name,event_date,vendor_id,vendor_name,category,products,email,phone,instagram,booth
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-035,Willow & Wick Candle Co.,Candles & Home Fragrance,"Soy candles, wax melts, room sprays",hello@willowwick.com,(202) 555-0143,@willowwickcandles,A1
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-013,Inkwell Prints,Art & Prints,"Linocut prints, screen-printed posters",press@inkwellprints.com,(202) 555-0118,@inkwellprintsdc,A2
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-033,Tin Roof Leather,Leather Goods,"Hand-stitched wallets, belts, key fobs",shop@tinroofleather.com,(703) 555-0157,@tinroofleather,A3
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-002,Birch Bark Baskets,Home Goods,"Woven baskets, storage trays",weave@birchbark.com,(540) 555-0178,@birchbarkbaskets,A4
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-030,The Paper Lantern,Stationery & Paper Goods,"Origami mobiles, paper garlands, cards",fold@paperlantern.com,(202) 555-0128,@thepaperlanterndc,B1
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-009,Fern & Feather Illustration,Art & Prints,"Watercolor wildlife prints, greeting cards",art@fernfeather.com,(202) 555-0175,@fernandfeatherart,B2
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-025,Silver Thistle Studio,Jewelry,"Botanical-cast silver earrings, necklaces",cast@silverthistle.com,(703) 555-0129,@silverthistlestudio,B3
+EVT-004,Moonlight Artisan Night Market,2026-08-07,FV-020,Painted Sky Pottery,Pottery & Ceramics,"Glazed landscape mugs, wall tiles",glaze@paintedsky.art,(301) 555-0138,@paintedskypottery,B4

@@ -1,0 +1,9 @@
+event_id,event_name,event_date,vendor_id,vendor_name,category,products,email,phone,instagram,booth
+EVT-003,Village Craft Fair,2026-07-26,FV-029,The Gilded Thread,Textiles & Fiber Arts,"Hand-embroidered linens, tea towels",orders@gildedthread.com,(301) 555-0122,@thegildedthread,A1
+EVT-003,Village Craft Fair,2026-07-26,FV-007,Copper Fox Jewelry,Jewelry,"Hammered copper earrings, brass cuffs",hello@copperfox.shop,(571) 555-0137,@copperfoxjewelry,A2
+EVT-003,Village Craft Fair,2026-07-26,FV-015,Lark & Loom Weaving,Textiles & Fiber Arts,"Woven wall hangings, table runners",weave@larkloom.com,(202) 555-0196,,A3
+EVT-003,Village Craft Fair,2026-07-26,FV-014,Juniper Hill Farm,Food & Pantry,"Small-batch jams, pickles, hot sauces",farm@juniperhill.com,(540) 555-0126,@juniperhillfarm,A4
+EVT-003,Village Craft Fair,2026-07-26,FV-010,Golden Hour Macrame,Textiles & Fiber Arts,"Macrame plant hangers, wall art",knots@goldenhour.art,(202) 555-0161,@goldenhourmacrame,B1
+EVT-003,Village Craft Fair,2026-07-26,FV-024,Saffron Sky Spices,Food & Pantry,"Hand-blended spice mixes, infused salts",blend@saffronsky.com,(202) 555-0187,@saffronskyspices,B2
+EVT-003,Village Craft Fair,2026-07-26,FV-005,Clay & Co. Studio,Pottery & Ceramics,"Speckled mugs, ring dishes, planters",hello@clayandco.studio,(703) 555-0164,@clayandcostudio,B3
+EVT-003,Village Craft Fair,2026-07-26,FV-019,Oakheart Cutting Boards,Woodworking,"End-grain cutting boards, cheese boards",wood@oakheart.shop,(540) 555-0153,@oakheartboards,B4

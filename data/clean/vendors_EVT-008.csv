@@ -1,0 +1,9 @@
+event_id,event_name,event_date,vendor_id,vendor_name,category,products,email,phone,instagram,booth
+EVT-008,Makers in the Park,2026-09-13,FV-017,Marigold Paper Studio,Stationery & Paper Goods,"Letterpress cards, notebooks, gift wrap",hi@marigoldpaper.com,(202) 555-0109,@marigoldpaper,A1
+EVT-008,Makers in the Park,2026-09-13,FV-015,Lark & Loom Weaving,Textiles & Fiber Arts,"Woven wall hangings, table runners",weave@larkloom.com,(202) 555-0196,,A2
+EVT-008,Makers in the Park,2026-09-13,FV-031,The Velvet Cactus,Plants & Florals,"Succulent arrangements, hand-painted pots",grow@velvetcactus.com,(301) 555-0183,@thevelvetcactus,A3
+EVT-008,Makers in the Park,2026-09-13,FV-033,Tin Roof Leather,Leather Goods,"Hand-stitched wallets, belts, key fobs",shop@tinroofleather.com,(703) 555-0157,@tinroofleather,A4
+EVT-008,Makers in the Park,2026-09-13,FV-005,Clay & Co. Studio,Pottery & Ceramics,"Speckled mugs, ring dishes, planters",hello@clayandco.studio,(703) 555-0164,@clayandcostudio,B1
+EVT-008,Makers in the Park,2026-09-13,FV-009,Fern & Feather Illustration,Art & Prints,"Watercolor wildlife prints, greeting cards",art@fernfeather.com,(202) 555-0175,@fernandfeatherart,B2
+EVT-008,Makers in the Park,2026-09-13,FV-020,Painted Sky Pottery,Pottery & Ceramics,"Glazed landscape mugs, wall tiles",glaze@paintedsky.art,(301) 555-0138,@paintedskypottery,B3
+EVT-008,Makers in the Park,2026-09-13,FV-007,Copper Fox Jewelry,Jewelry,"Hammered copper earrings, brass cuffs",hello@copperfox.shop,(571) 555-0137,@copperfoxjewelry,B4

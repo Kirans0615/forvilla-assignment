@@ -1,0 +1,9 @@
+event_id,event_name,event_date,vendor_id,vendor_name,category,products,email,phone,instagram,booth
+EVT-002,Handmade at the Harbor,2026-07-18,FV-011,Harbor Light Candles,Candles & Home Fragrance,"Coastal soy candles, reed diffusers",glow@harborlight.co,(301) 555-0192,@harborlightcandles,A1
+EVT-002,Handmade at the Harbor,2026-07-18,FV-008,Ember Glassworks,Glass Art,"Blown-glass ornaments, stained glass suncatchers",studio@emberglass.com,(301) 555-0174,@emberglassworks,A2
+EVT-002,Handmade at the Harbor,2026-07-18,FV-017,Marigold Paper Studio,Stationery & Paper Goods,"Letterpress cards, notebooks, gift wrap",hi@marigoldpaper.com,(202) 555-0109,@marigoldpaper,A3
+EVT-002,Handmade at the Harbor,2026-07-18,FV-003,Bloom & Bramble Botanicals,Bath & Body,"Herbal soaps, bath soaks, balms",care@bloombramble.com,(301) 555-0165,@bloomandbramble,A4
+EVT-002,Handmade at the Harbor,2026-07-18,FV-026,Stone & Sage Pottery,Pottery & Ceramics,"Stoneware dinnerware, vases",kiln@stonesage.com,(703) 555-0119,@stoneandsagepottery,B1
+EVT-002,Handmade at the Harbor,2026-07-18,FV-004,Cedar & Salt Soap Co.,Bath & Body,"Cold-process soaps, shower steamers",hello@cedarsalt.com,(703) 555-0142,@cedarandsalt,B2
+EVT-002,Handmade at the Harbor,2026-07-18,FV-006,Cocoa & Crumb,Baked Goods,"Artisan cookies, hand-dipped chocolates",treats@cocoacrumb.com,(202) 555-0166,@cocoaandcrumb,B3
+EVT-002,Handmade at the Harbor,2026-07-18,FV-021,Pinecone & Petal Wreaths,Plants & Florals,"Dried-flower wreaths, seasonal swags",wreaths@pineconepetal.com,(703) 555-0181,@pineconeandpetal,B4

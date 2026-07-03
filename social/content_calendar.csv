@@ -1,0 +1,31 @@
+post_date,platform,post_type,event_id,event_name,event_date,file
+2026-07-04,Instagram,instagram announcement,EVT-001,Summer Makers Market,2026-07-11,social/EVT-001/instagram_announcement.md
+2026-07-08,Instagram,vendor spotlight,EVT-001,Summer Makers Market,2026-07-11,social/EVT-001/vendor_spotlight.md
+2026-07-10,Facebook,facebook event post,EVT-001,Summer Makers Market,2026-07-11,social/EVT-001/facebook_event_post.md
+2026-07-11,Instagram,instagram announcement,EVT-002,Handmade at the Harbor,2026-07-18,social/EVT-002/instagram_announcement.md
+2026-07-15,Instagram,vendor spotlight,EVT-002,Handmade at the Harbor,2026-07-18,social/EVT-002/vendor_spotlight.md
+2026-07-17,Facebook,facebook event post,EVT-002,Handmade at the Harbor,2026-07-18,social/EVT-002/facebook_event_post.md
+2026-07-19,Instagram,instagram announcement,EVT-003,Village Craft Fair,2026-07-26,social/EVT-003/instagram_announcement.md
+2026-07-23,Instagram,vendor spotlight,EVT-003,Village Craft Fair,2026-07-26,social/EVT-003/vendor_spotlight.md
+2026-07-25,Facebook,facebook event post,EVT-003,Village Craft Fair,2026-07-26,social/EVT-003/facebook_event_post.md
+2026-07-31,Instagram,instagram announcement,EVT-004,Moonlight Artisan Night Market,2026-08-07,social/EVT-004/instagram_announcement.md
+2026-08-04,Instagram,vendor spotlight,EVT-004,Moonlight Artisan Night Market,2026-08-07,social/EVT-004/vendor_spotlight.md
+2026-08-06,Facebook,facebook event post,EVT-004,Moonlight Artisan Night Market,2026-08-07,social/EVT-004/facebook_event_post.md
+2026-08-08,Instagram,instagram announcement,EVT-005,Riverside Makers Bazaar,2026-08-15,social/EVT-005/instagram_announcement.md
+2026-08-12,Instagram,vendor spotlight,EVT-005,Riverside Makers Bazaar,2026-08-15,social/EVT-005/vendor_spotlight.md
+2026-08-14,Facebook,facebook event post,EVT-005,Riverside Makers Bazaar,2026-08-15,social/EVT-005/facebook_event_post.md
+2026-08-16,Instagram,instagram announcement,EVT-006,Late Summer Craft Collective,2026-08-23,social/EVT-006/instagram_announcement.md
+2026-08-20,Instagram,vendor spotlight,EVT-006,Late Summer Craft Collective,2026-08-23,social/EVT-006/vendor_spotlight.md
+2026-08-22,Facebook,facebook event post,EVT-006,Late Summer Craft Collective,2026-08-23,social/EVT-006/facebook_event_post.md
+2026-08-29,Instagram,instagram announcement,EVT-007,Harvest Handmade Market,2026-09-05,social/EVT-007/instagram_announcement.md
+2026-09-02,Instagram,vendor spotlight,EVT-007,Harvest Handmade Market,2026-09-05,social/EVT-007/vendor_spotlight.md
+2026-09-04,Facebook,facebook event post,EVT-007,Harvest Handmade Market,2026-09-05,social/EVT-007/facebook_event_post.md
+2026-09-06,Instagram,instagram announcement,EVT-008,Makers in the Park,2026-09-13,social/EVT-008/instagram_announcement.md
+2026-09-10,Instagram,vendor spotlight,EVT-008,Makers in the Park,2026-09-13,social/EVT-008/vendor_spotlight.md
+2026-09-12,Facebook,facebook event post,EVT-008,Makers in the Park,2026-09-13,social/EVT-008/facebook_event_post.md
+2026-09-12,Instagram,instagram announcement,EVT-009,Autumn Artisan Fair,2026-09-19,social/EVT-009/instagram_announcement.md
+2026-09-16,Instagram,vendor spotlight,EVT-009,Autumn Artisan Fair,2026-09-19,social/EVT-009/vendor_spotlight.md
+2026-09-18,Facebook,facebook event post,EVT-009,Autumn Artisan Fair,2026-09-19,social/EVT-009/facebook_event_post.md
+2026-09-20,Instagram,instagram announcement,EVT-010,Fall Village Market,2026-09-27,social/EVT-010/instagram_announcement.md
+2026-09-24,Instagram,vendor spotlight,EVT-010,Fall Village Market,2026-09-27,social/EVT-010/vendor_spotlight.md
+2026-09-26,Facebook,facebook event post,EVT-010,Fall Village Market,2026-09-27,social/EVT-010/facebook_event_post.md

@@ -1,0 +1,9 @@
+event_id,event_name,event_date,vendor_id,vendor_name,category,products,email,phone,instagram,booth
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-012,Hazel + Pine Woodworks,Woodworking,"Cutting boards, serving trays, coasters",shop@hazelpine.com,(703) 555-0188,@hazelpinewood,A1
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-027,Sweet Alchemy Bakes,Baked Goods,"French macarons, shortbread, brownies",orders@sweetalchemy.com,(202) 555-0152,@sweetalchemybakes,A2
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-022,Prairie Honey Co.,Food & Pantry,"Raw wildflower honey, honeycomb, beeswax",buzz@prairiehoney.com,(540) 555-0131,@prairiehoneyco,A3
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-010,Golden Hour Macrame,Textiles & Fiber Arts,"Macrame plant hangers, wall art",knots@goldenhour.art,(202) 555-0161,@goldenhourmacrame,A4
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-018,Moon Phase Metals,Jewelry,"Sterling silver rings, moon-phase pendants",luna@moonphasemetals.com,(202) 555-0134,@moonphasemetals,B1
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-011,Harbor Light Candles,Candles & Home Fragrance,"Coastal soy candles, reed diffusers",glow@harborlight.co,(301) 555-0192,@harborlightcandles,B2
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-006,Cocoa & Crumb,Baked Goods,"Artisan cookies, hand-dipped chocolates",treats@cocoacrumb.com,(202) 555-0166,@cocoaandcrumb,B3
+EVT-006,Late Summer Craft Collective,2026-08-23,FV-032,Thread & Thistle Embroidery,Textiles & Fiber Arts,"Embroidery hoop art, patches",stitch@threadthistle.com,(571) 555-0172,@threadandthistle,B4
